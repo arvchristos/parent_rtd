@@ -1,6 +1,6 @@
 # Welcome to Parent docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org). This also supports subprojects.
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
